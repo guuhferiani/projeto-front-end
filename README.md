@@ -87,3 +87,6 @@ indicando visualmente que ele está ativo ou selecionado. </p>
 Essas são as explicações linha por linha do que cada parte do código faz.
 
 
+
+https://chat.openai.com/share/b7879402-1173-4503-9733-b77745eefa89
+
