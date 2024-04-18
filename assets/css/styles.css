@@ -17,6 +17,8 @@
 /*
 definindo variáveis de cores para um tema claro e um tema escuro
 
+ROOT refere-se ao elemento raiz do documento HTML
+
 seletor :root define as variáveis globais
 
 Isso oferece uma maneira flexível de definir valores
