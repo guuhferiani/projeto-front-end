@@ -14,6 +14,14 @@
   --link-color: #9A9A9C;
   --icon-color: #C7C8C9;
 }
+/*
+definindo variáveis de cores para um tema claro e um tema escuro
+
+seletor :root define as variáveis globais
+
+Isso oferece uma maneira flexível de definir valores
+que podem ser reutilizados em todo o seu CSS e facilmente atualizados de um único lugar.
+*/
 
 :root[data-theme='light'] {
   --primary-color: #0B0B0F;
@@ -36,6 +44,7 @@ html[data-theme='light'] .brand__logo {
 html[data-theme='light'] .tecnologias__logo {
   filter: invert(80%);
 }
+
 
 * {
   margin: 0;
