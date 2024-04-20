@@ -1,4 +1,4 @@
-<b> Explicação sobre o JS </br>
+<b> Explicação sobre o JS </b> </br>
 
 
 ## const toggleTheme = document.getElementById("toggleTheme");: 
